@@ -1,0 +1,8 @@
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Datos\bin\Debug\netstandard1.4\Ganadero.Datos.deps.json
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Datos\bin\Debug\netstandard1.4\Ganadero.Datos.dll
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Datos\bin\Debug\netstandard1.4\Ganadero.Datos.pdb
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Datos\obj\Debug\netstandard1.4\Ganadero.Datos.csprojAssemblyReference.cache
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Datos\obj\Debug\netstandard1.4\Ganadero.Datos.csproj.CoreCompileInputs.cache
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Datos\obj\Debug\netstandard1.4\Ganadero.Datos.AssemblyInfo.cs
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Datos\obj\Debug\netstandard1.4\Ganadero.Datos.dll
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Datos\obj\Debug\netstandard1.4\Ganadero.Datos.pdb

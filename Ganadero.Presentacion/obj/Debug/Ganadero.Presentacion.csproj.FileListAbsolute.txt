@@ -1,0 +1,11 @@
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Presentacion\bin\Debug\Ganadero.Presentacion.exe.config
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Presentacion\bin\Debug\Ganadero.Presentacion.exe
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Presentacion\bin\Debug\Ganadero.Presentacion.pdb
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Presentacion\obj\Debug\Ganadero.Presentacion.csprojAssemblyReference.cache
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Presentacion\obj\Debug\Ganadero.Presentacion.Properties.Resources.resources
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Presentacion\obj\Debug\Ganadero.Presentacion.csproj.GenerateResource.cache
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Presentacion\obj\Debug\Ganadero.Presentacion.csproj.CoreCompileInputs.cache
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Presentacion\obj\Debug\Ganadero.Presentacion.exe
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Presentacion\obj\Debug\Ganadero.Presentacion.pdb
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Presentacion\obj\Debug\Ganadero.Presentacion.frmLogin.resources
+D:\VsProjetcs\GanaderoAdmin\Ganadero.Presentacion\obj\Debug\Ganadero.Presentacion.FrmHome.resources
